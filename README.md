@@ -56,13 +56,15 @@ BUY vs SELL behavior across market conditions.
 
 📊 Visualizations:
 
-PnL distribution by sentiment (histograms/boxplots)
+* PnL distribution under fear vs greed (bar chart)
 
-Trade volume per sentiment (bar charts)
+* PnL distribution by sentiment (Box Plot)
 
-Side (BUY/SELL) distribution (stacked bars & pie charts)
+* PnL over time by sentiment (Line chart)
 
-Time series of profit/loss trends across sentiment periods
+* Number of trades per sentiment (Bar chart)
+
+* Buy vs Sell comparison (Pie chart)  
 
 ✅ Insights Derived:
 
