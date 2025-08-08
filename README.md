@@ -84,3 +84,43 @@ Data wrangling, datetime handling, and group-based analysis
 
 
 ## Fake News Detection System
+This project focuses on detecting misleading or false information in news articles using Natural Language Processing (NLP) and supervised learning techniques. With misinformation being a growing threat, especially across digital platforms, the goal was to build a robust classification model that can distinguish between real and fake news.
+
+🔍 Key Objectives
+Classify news headlines/articles as real or fake
+
+Apply text preprocessing techniques (tokenization, stopword removal, lemmatization)
+
+Generate semantic meaning using Word2Vec embeddings
+
+Train a Logistic Regression model for binary classification
+
+Evaluate model performance using accuracy, confusion matrix, and ROC curve
+
+🛠️ Tech Stack
+Language: Python
+
+Libraries: Pandas, NumPy, Scikit-learn, NLTK, Gensim, Matplotlib, Seaborn
+
+Modeling: Word2Vec + Logistic Regression
+
+Data: Sourced from a labeled dataset of fake and real news headlines/articles
+
+📊 Approach
+Data Cleaning: Removed noise such as punctuation, special characters, and stopwords.
+
+Tokenization & Lemmatization: Prepared the text for embedding.
+
+Vectorization: Used Word2Vec to convert text into numerical vectors by averaging word embeddings.
+
+Model Training: Trained a logistic regression model to classify the articles.
+
+Evaluation: Achieved good accuracy with balanced results across both classes.
+
+✅ Outcome
+Developed a scalable pipeline for text-based classification.
+
+Gained deeper understanding of NLP preprocessing and word embeddings.
+
+Demonstrated how classical ML methods can perform well when combined with strong feature engineering.
+
