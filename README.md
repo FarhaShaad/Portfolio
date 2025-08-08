@@ -77,3 +77,10 @@ Tools & Technologies:
 Python, Pandas, Matplotlib, Seaborn
 
 Data wrangling, datetime handling, and group-based analysis
+
+
+
+
+
+
+## Fake News Detection System
