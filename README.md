@@ -1,5 +1,5 @@
 # Portfolio
-Data Science portfolio 
+Hi! This is Farha. Welcome to my Data Science portfolio! This space showcases a curated collection of real-world and project-based work that reflects my ability to turn data into actionable insights. My projects span various domains—from finance and cryptocurrency to fake news detection—demonstrating skills across the entire data pipeline.
 
 ## Trader Performance Analysis
 This project explores the relationship between market sentiment and cryptocurrency trading performance. By integrating Fear & Greed Index data with real trading records, it uncovers behavioral patterns in decision-making, profitability, and trade direction under different sentiment conditions such as Fear, Greed, Extreme Greed, and Neutral.
