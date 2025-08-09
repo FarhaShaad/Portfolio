@@ -32,7 +32,7 @@ Hi! This is Farha. Welcome to my Data Science portfolio! This space showcases a 
 
 👩‍💻 Let’s Connect!
 If you're interested in collaborating or hiring for data-driven roles, feel free to reach out!
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
